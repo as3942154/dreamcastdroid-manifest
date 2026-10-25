@@ -1,9 +1,9 @@
 # DreamcastDroid ICS Build Baseline
 
-Android base: Android 4.0.1
-AOSP revision: android-4.0.1_r1
+Android base: Android 4.0.4
+AOSP revision: android-4.0.4_r2
 Reference manifest:
-https://android.googlesource.com/platform/manifest/+/refs/tags/android-4.0.1_r1/default.xml
+https://android.googlesource.com/platform/manifest/%2B/android-4.0.4_r2
 
 Target hardware: Sega Dreamcast
 Target architecture: SH-4
